@@ -216,12 +216,3 @@ Enter transaction values when prompted.
 
 ---
 
-## 👨‍💻 Author
-
-**Teja**
-
-Final Year B.Tech Student | Data Science & Machine Learning Enthusiast
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
